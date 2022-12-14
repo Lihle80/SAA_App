@@ -9,16 +9,16 @@ Passenger passenger = new Passenger();
 //METHOD 1 START//
 @Override
 public void userNameLogin(String userName){
-        while(count < airline.numberOfManagers){
+        while(count < Application.numberOfManagers){
 
-nameCheck = airline.listOfManagers[count];
+nameCheck = Application.listOfManagers[count];
         if (userName.toUpperCase().equals(nameCheck.toUpperCase())){
                 break;
 
 }
 
 count++;
- if (count == airline.numberOfManagers){
+ if (count == Application.numberOfManagers){
 
 
         stopIfStatement = 25;
