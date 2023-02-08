@@ -8,6 +8,7 @@
 - **Arrays have been used as a simple way to store user data instead of databases.**
 - **This application API allows 2 main types of users to access it and use it, Tellers and Managers, with there being multiple tellers and one manager each with their own unique password.**
 
+### The App
 - this app allows us to login using unique users and passwords(_See Screenshot below_)
 - this app also allows us to Book Passegers, Check-in Passengers, Cancel Bookings, Refund Customers and Reschedule Customer Bookings(_See ScreenShot Below_)
 - Choose from 3 Different destinations, Each destinaton has a different cost to book a flight
