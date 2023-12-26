@@ -1,5 +1,5 @@
 # Inside the Application 🛫
-**We'll be taking a look at a few functions of this java Application API and i will be demonstrating how it works.**
+**We'll be taking a look at a few functions of this java Application and i will be demonstrating how it works.**
 
 ### What does it do? 😕
 
